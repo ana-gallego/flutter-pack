@@ -3,6 +3,8 @@
   "displayName": "Flutter Pack",
   "description": "Flutter Pack",
   "version": "0.0.1",
+  "publisher": "AnaGalleg0",
+  "repository": "https://github.com/ana-gallego/flutter-pack",
   "engines": {
     "vscode": "^1.75.0"
   },
