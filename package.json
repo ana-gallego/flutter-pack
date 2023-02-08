@@ -1,0 +1,26 @@
+{
+  "name": "flutter-pack",
+  "displayName": "Flutter Pack",
+  "description": "Flutter Pack",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "usernamehw.errorlens",
+    "flutterando.flutter-coverage",
+    "ryanluker.vscode-coverage-gutters",
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "kisstkondoros.vscode-gutter-preview",
+    "esbenp.prettier-vscode",
+    "jeroen-meijer.pubspec-assist",
+    "richie5um2.vscode-sort-json",
+    "TabNine.tabnine-vscode",
+    "rangav.vscode-thunder-client",
+    "Gruntfuggly.todo-tree"
+  ]
+}
